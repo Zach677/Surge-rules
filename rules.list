@@ -4,31 +4,6 @@
 # UPDATED: 2024-02-010 19:32
 # DOMAIN-SUFFIX: 7345
 # TOTAL: 16280
-  - DOMAIN,app.biliapi.net,Bilibili
-  - DOMAIN,grpc.biliapi.net,Bilibili
-  - DOMAIN,p-bstarstatic.akamaized.net,Bilibili
-  - DOMAIN,p.bstarstatic.com,Bilibili
-  - DOMAIN,upos-bstar-mirrorakam.akamaized.net,Bilibili
-  - DOMAIN,upos-bstar1-mirrorakam.akamaized.net,Bilibili
-  - DOMAIN,upos-hz-mirrorakam.akamaized.net,Bilibili
-  - DOMAIN-SUFFIX,acgvideo.com,Bilibili
-  - DOMAIN-SUFFIX,bilibili.com,Bilibili
-  - DOMAIN-SUFFIX,bilibili.tv,Bilibili
-  - IP-CIDR,45.43.32.234/32,Bilibili,no-resolve
-  - IP-CIDR,103.151.150.0/23,Bilibili,no-resolve
-  - IP-CIDR,119.29.29.29/32,Bilibili,no-resolve
-  - IP-CIDR,128.1.62.200/32,Bilibili,no-resolve
-  - IP-CIDR,128.1.62.201/32,Bilibili,no-resolve
-  - IP-CIDR,150.116.92.250/32,Bilibili,no-resolve
-  - IP-CIDR,164.52.33.178/32,Bilibili,no-resolve
-  - IP-CIDR,164.52.33.182/32,Bilibili,no-resolve
-  - IP-CIDR,164.52.76.18/32,Bilibili,no-resolve
-  - IP-CIDR,203.107.1.33/32,Bilibili,no-resolve
-  - IP-CIDR,203.107.1.34/32,Bilibili,no-resolve
-  - IP-CIDR,203.107.1.65/32,Bilibili,no-resolve
-  - IP-CIDR,203.107.1.66/32,Bilibili,no-resolve
-  - DOMAIN,cache.video.iqiyi.com,Bilibili
-  - DOMAIN-SUFFIX,iq.com,Bilibili
   - DOMAIN-SUFFIX,exhentai.org,Proxies
   - DOMAIN-SUFFIX,e-hentai.org,Proxies
   - DOMAIN-SUFFIX,ehgt.org,Proxies

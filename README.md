@@ -1,2 +1,2 @@
 # Surge-rules
-My surge rules
+My surge rules(deprecated)
